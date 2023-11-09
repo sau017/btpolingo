@@ -57,7 +57,7 @@ public class Vendor {
   @Column(nullable = false , name = "website")
   @EdmProperty
   private String website;
-  @Column(nullable = false , name = "email")
+  @Column(nullable = false , name = "emailadd")
   @EdmProperty
   private String email;
   @Column(nullable = false , name = "status")
